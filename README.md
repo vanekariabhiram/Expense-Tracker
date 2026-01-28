@@ -1,6 +1,7 @@
 A full-stack Expense Tracker application that helps users track income and expenses, view monthly summaries, and manage transactions through a clean dashboard UI.
 
 ⚙️ Setup & Installation
+
 1️⃣ Clone the repository
 - cd expense-tracker
 
@@ -10,7 +11,7 @@ A full-stack Expense Tracker application that helps users track income and expen
 - node server.js
 - Backend runs on:
 
-http://localhost:5000
+you see these in terminal : http://localhost:5000
 let it stay running 
 
 3️⃣ Database Setup-MYSQL
